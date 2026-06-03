@@ -39,37 +39,7 @@ Welcome to my GitHub profile! I'm passionate about building intelligent solution
 
 ---
 
-## 📊 My Projects
-
-Here are some of my notable projects:
-
-### 🌟 Featured Projects
-- **[Program AI Manager](https://github.com/SayanthRock/Program-ai-Manager)** - An intelligent project management tool powered by AI for weddings, anniversaries, and celebrations (TypeScript)
-- **[Sayanth](https://github.com/SayanthRock/Sayanth-)** - A creative project showcasing my development skills
-- **[RMX3780](https://github.com/SayanthRock/RMX3780)** - Device-specific customization and configuration repository
-
-*Browse all [13 repositories](https://github.com/SayanthRock?tab=repositories) to see more of my work!*
-
----
-
-## 🎓 What I'm Learning
-
-- 🤖 Advanced AI & Machine Learning concepts
-- 🔐 Full-stack security best practices
-- ⚡ High-performance application optimization
-- 🎨 Modern UI/UX design principles
-
----
-
-## 🤝 Let's Connect!
-
-I love collaborating on exciting projects and helping the community. Feel free to reach out:
-
-- 📺 **YouTube**: [@sayanthrock](https://www.youtube.com/@sayanthrock)
-- 💬 **Telegram**: [@sayanthrock](https://t.me/sayanthrock)
-- 🎨 **PicsArt**: [sayanth_rock](https://picsart.com/u/sayanth_rock)
-- 📍 **Location**: Kozhikode, India
-
+## 📊 hey friends 
 ---
 
 ## 💡 Open to Opportunities
