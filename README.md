@@ -1,7 +1,7 @@
 # 🚀 Sayanth Rock
 
 
-##https://github.com/SayanthRock/SayanthRock/blob/main/index.html
+##index.html
 
 > **Mobile Developer** • **UI/UX Designer** • **Android Innovator**
 >
