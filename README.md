@@ -1,7 +1,6 @@
 # 🚀 Sayanth Rock
 
 
-##index.html
 
 > **Mobile Developer** • **UI/UX Designer** • **Android Innovator**
 >
